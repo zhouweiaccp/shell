@@ -4,3 +4,6 @@
 
 #shell十三问--shell教程（markdown 版本）
 https://github.com/wzb56/13_questions_of_shell
+
+#Shell变量测试与内容置换
+http://c.biancheng.net/view/975.html
