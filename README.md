@@ -41,3 +41,6 @@ https://github.com/zxui/shell
 * NFS-Server   安装NFS服务器
 * NFS-Client   安装NFS终端
 
+待整理学习
+https://github.com/jaywcjlove/shell-tutorial
+https://github.com/zhwj184/shell-work  shell常用分析命令和脚本
