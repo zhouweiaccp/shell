@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/expect
 #spawn 自动应答demo
 ssh_key_create(){
     yum localinstall Install_Packages/expect/*.rpm -y
